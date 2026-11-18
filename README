@@ -6,7 +6,7 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 
 ## Tampilan
 
-![Tampilan beranda portofolio]()
+![Tampilan beranda portofolio](img/portofolio.png)
 
 ## Fitur
 
@@ -24,5 +24,5 @@ jadwal belajar
 
 ## Tautan
 
-- Website: menyusul setelah *deploy* ke Vercel
+- Website: https://portofolio-lolieta-syahwa.vercel.app
 - Dibuat oleh: Lolieta Syahwa, SMKN 1 Jenangan Ponorogo
